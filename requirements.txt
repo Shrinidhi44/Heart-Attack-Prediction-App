@@ -1,0 +1,7 @@
+pickle
+streamlit  
+numpy
+seaborn
+pandas
+scikit-learn
+StandardScaler
